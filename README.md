@@ -6,8 +6,9 @@
 
 <br/>
 
-#### 2020 goals:
+#### 2022 goals:
 
+- transform my home in a smart place (yes, with me inside :P)
 - more blog posts
 - implement/deploy my first AI app
 - contribute to opensource projects
