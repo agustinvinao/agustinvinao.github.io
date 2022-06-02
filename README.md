@@ -2,16 +2,25 @@
 
 <br/>
 
+Moving towards blockchain and web3, fully focused on generating material about these fields.
+
 > "..Judge a man by his questions rather than by his answers..." Voltaire
 
 <br/>
 
-#### 2022 goals:
+#### 2022 goals (updated):
+
+for my carrear:
+
+- migrate to web3 as a programmer
+- learning smart contract coding tools
+- implement/deploy my first AI app
+- contribute to opensource projects
+
+in my personal time:
 
 - transform my home in a smart place (yes, with me inside :P)
 - more blog posts
-- implement/deploy my first AI app
-- contribute to opensource projects
 - continue styding blockchain
 
 <br/>
