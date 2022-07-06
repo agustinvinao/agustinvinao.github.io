@@ -1,8 +1,8 @@
 ---
-title: An Architectural Aproach for FrontEnd Applications
+title: An Architectural Approach for FrontEnd Applications
 published: true
 ---
-An Architectural Aproach for FrontEnd Applications
+An Architectural Approach for FrontEnd Applications
 ---
 
 After more than 8 years of working with Angular (angularJS and angular), I'm putting together what I'm still trying to name as a framework or as a protocol for this part of a system.
