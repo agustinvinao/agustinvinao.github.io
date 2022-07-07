@@ -124,6 +124,8 @@ The following works as an example, the listed items in the blueprint must be agr
 
 ## Final note
 
+I see the previous example as a document living in the same repository as the project's code. It can be a markdown file, a wiki, or anything that helps to access this information.
+
 Working on a project presents challenges overtime, it's never about what we thing today, it's about what is going to be in the future:
 
 - How can we implement what we design?
